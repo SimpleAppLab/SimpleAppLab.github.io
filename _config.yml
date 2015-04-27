@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Simple App Lab
+description: "Simple App Lab developes simple & flat applications for Your mobile phone."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "http://simplalabapp.github.io"
 
 # Build settings
 markdown: kramdown
@@ -29,7 +29,7 @@ social:
   - title: dribbble
     url:
   - title: facebook
-    url:
+    url: https://www.facebook.com/pages/Simple-App-Lab/372579146255154?fref=ts
   - title: twitter
     url: 
   - title: instagram
@@ -43,7 +43,7 @@ address:
     - Some Ave, 987,
     - 23890, New York,
     - United States.
-email: hello@solidtheme.com
+email: info.simpleapplab@gmail.com
 tel: +34 8493-4893
 
 
